@@ -1,1 +1,1 @@
-this repository is launched to understand script
+this is all about redirections
