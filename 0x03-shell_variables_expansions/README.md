@@ -1,1 +1,2 @@
-this directory is all about redirection
+this directory is all about extension
+
